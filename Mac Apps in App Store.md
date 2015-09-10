@@ -1,4 +1,6 @@
 # Mac Apps in App Store
+[http://wsgzao.github.io/post/mac/][1]
+Mac基本快捷键及常用软件推荐
 ## 插件类
 1. 1Password
 	密码管理
@@ -105,3 +107,4 @@ __图都不会P还指望我会视频剪辑？__
 7. QQ/微信
 	跟10年前一样干净
 
+[1]:	http://wsgzao.github.io/post/mac/
