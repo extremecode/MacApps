@@ -1,7 +1,7 @@
 # Mac Apps in App Store
-[http://wsgzao.github.io/post/mac/][1]——Mac新手推荐
-[http://www.leiphone.com/news/201406/back-to-school-1.html][2]——带着Mac去上学（1）
-[http://www.leiphone.com/news/201406/back-to-school-2.html][3]——带着Mac去上学（2）
+### [http://wsgzao.github.io/post/mac/][1]——Mac新手推荐
+### [http://www.leiphone.com/news/201406/back-to-school-1.html][2]——带着Mac去上学（1）
+### [http://www.leiphone.com/news/201406/back-to-school-2.html][3]——带着Mac去上学（2）
 Mac基本快捷键及常用软件推荐
 ## 插件类
 1. 1Password
