@@ -3,34 +3,29 @@
 ### [http://www.leiphone.com/news/201406/back-to-school-1.html][2]——带着Mac去上学（1）
 ### [http://www.leiphone.com/news/201406/back-to-school-2.html][3]——带着Mac去上学（2）
 Mac基本快捷键及常用软件推荐
+# Mac Apps in App Store
 ## 插件类
 1. 1Password
-====
-密码管理
+	密码管理
 2. 系统助手
-====
-查看系统状态，网速等
+	查看系统状态，网速等
 3. Moom
-====
-仿windows最大化（非全屏）
+	仿windows最大化（非全屏）
 4. PopClip
-====
-选中文字弹出view插件，减少右键
+	选中文字弹出view插件，减少右键
 5. Gemini
-====
-重复文件查找
+	重复文件查找
 6. Yoink
-====
-零碎文件/小文件/邮件附件暂存
+	零碎文件/小文件/邮件附件暂存
 7. Inbord
-====
-设计/灵感收集
+	设计/灵感收集
 8. Manico
 	 快捷打开应用
 9. Daisy Disk
 	查看硬盘使用情况
 10. FilePane
 	拖动文件时选择对文件的操作
+	
 ## 效率/工具类
 1. Fantastical 2
 	第三方日历和提醒事项。支持iCloud，有iOS版一起使用，替代原生日历和提醒事项
@@ -71,6 +66,7 @@ Mac基本快捷键及常用软件推荐
 15. iStudiez Pro
 	课程表
 	可惜我已经不上学了，这么好看的软件
+	
 ## PS类/视频剪辑类
 1. Pixelmator
 	PS的Mac版，据说很强大
@@ -81,6 +77,7 @@ Mac基本快捷键及常用软件推荐
 __以上我都没用过，因为我不会P图，但是这些软件挺贵哈哈哈哈哈__
 6. Aperture
 __图都不会P还指望我会视频剪辑？__
+
 ## 娱乐
 1. 可意视频
 	免广告看各大视频网站
@@ -89,6 +86,7 @@ __图都不会P还指望我会视频剪辑？__
 	微博第三方客户端
 3. Reeder2 
 	RSS订阅
+	
 ## Dev
 1. Hype 3 
 	Html5
@@ -100,6 +98,7 @@ __图都不会P还指望我会视频剪辑？__
 6. CodeRunner
 7. Dash
 	API管理/阅读
+	
 ## 免费类
 1. Pocket
 	read later
@@ -116,6 +115,9 @@ __图都不会P还指望我会视频剪辑？__
 7. QQ/微信
 	跟10年前一样干净
 
+
+
 [1]:	http://wsgzao.github.io/post/mac/
 [2]:	http://www.leiphone.com/news/201406/back-to-school-1.html
 [3]:	http://www.leiphone.com/news/201406/back-to-school-2.html
+
